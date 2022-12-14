@@ -164,6 +164,24 @@
 
 
 
+# Praca domowa nr.3Tomasz Habza
+# Pitch dec:
+### Prince of Persia 2
+
+Ścigany przez żądnego zemsty Dahakę, Książę Persji wyrusza w drogę pełną zniszczenia i tajemnic, aby zapobiec wygłoszonej przez Starca przepowiedni o własnej śmierci.
+W czasie swej wędrówki trafi w regiony piekielne i na przeklętą wyspę, a wreszcie - do twierdzy skrywającej największe obawy ludzkości... 
+Tylko dzięki wyjątkowemu uporowi, niezwykłej zaciętości i mistrzostwu w sztukach walki Książę Persji będzie mógł wspiąć się na zupełnie nowe poziomy swych umiejętności i dzięki temu wyjść cało z zabójczych prób, które czekają na niego w grze "Prince of Persia: Dusza Wojownika"
+
+### Storyboard
+link : [Storyboard](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/)
+
+
+
+
+
+
+
+
 
 
 
