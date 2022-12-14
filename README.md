@@ -173,7 +173,7 @@ W czasie swej wędrówki trafi w regiony piekielne i na przeklętą wyspę, a wr
 Tylko dzięki wyjątkowemu uporowi, niezwykłej zaciętości i mistrzostwu w sztukach walki Książę Persji będzie mógł wspiąć się na zupełnie nowe poziomy swych umiejętności i dzięki temu wyjść cało z zabójczych prób, które czekają na niego w grze "Prince of Persia: Dusza Wojownika"
 
 ### Storyboard
-link : [Storyboard](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/)
+link : [Storyboard](https://drive.google.com/file/d/1xY-irFfWRaihYRh-ppCMCj3HVw8wQiUy/view?usp=share_link)
 
 
 
