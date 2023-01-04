@@ -1071,3 +1071,10 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.04-22.16.38:275][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.01.04-22.16.38:277][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
 [2023.01.04-22.16.38:325][731]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.01.04-22.20.38:710][890]LogSlate: Took 0.005052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.04-22.20.38:719][890]LogSlate: Took 0.003913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.04-22.30.17:418][510]Cmd: DELETE
+[2023.01.04-22.30.17:418][510]Cmd: ACTOR DELETE
+[2023.01.04-22.30.17:424][510]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.04-22.30.17:428][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.04-22.30.17:429][510]LogEditorActor: Deleted 1 Actors (0.011 secs)
