@@ -1078,3 +1078,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.04-22.30.17:424][510]LogEditorActor: Deleted Actor: StaticMeshActor
 [2023.01.04-22.30.17:428][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
 [2023.01.04-22.30.17:429][510]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.01.04-22.30.47:845][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.04-22.30.47:846][295]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.006
