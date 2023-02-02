@@ -175,6 +175,11 @@ Tylko dzięki wyjątkowemu uporowi, niezwykłej zaciętości i mistrzostwu w szt
 ### Storyboard
 link : [Storyboard](https://drive.google.com/file/d/1xY-irFfWRaihYRh-ppCMCj3HVw8wQiUy/view?usp=share_link)
 
+# Linki (Kurs, Gameplay) :
+
+1. https://www.wingfox.com/c/8518
+2. https://www.youtube.com/watch?v=CjoQtOLCIog
+
 
 
 
