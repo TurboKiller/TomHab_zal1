@@ -179,7 +179,10 @@ link : [Storyboard](https://drive.google.com/file/d/1xY-irFfWRaihYRh-ppCMCj3HVw8
 
 1. https://www.wingfox.com/c/8518
 2. https://www.youtube.com/watch?v=CjoQtOLCIog
-
+3. Prototyp1 : https://www.youtube.com/watch?v=Fl2bY1geMCY
+4. CuctSCenaBOS : https://www.youtube.com/watch?v=H5WXMUL4OaY
+5. Symulacja rozbitej ściany https://www.youtube.com/watch?v=WXLmdQ7vrAs
+                             https://www.youtube.com/watch?v=UKd8fPkDC0I
 
 
 
