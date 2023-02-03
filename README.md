@@ -175,10 +175,10 @@ Tylko dzięki wyjątkowemu uporowi, niezwykłej zaciętości i mistrzostwu w szt
 ### Storyboard
 link : [Storyboard](https://drive.google.com/file/d/1xY-irFfWRaihYRh-ppCMCj3HVw8wQiUy/view?usp=share_link)
 
-# Linki (Kurs, Gameplay) :
+# Linki (Kurs, Gameplay, CutScenka / Symulacja rozbitejściany, która ostatecznie nie weszła do projektu:
 
-1. https://www.wingfox.com/c/8518
-2. https://www.youtube.com/watch?v=CjoQtOLCIog
+1. Kurs: https://www.wingfox.com/c/8518
+2. Prototyp-główny: https://www.youtube.com/watch?v=CjoQtOLCIog
 3. Prototyp1 : https://www.youtube.com/watch?v=Fl2bY1geMCY
 4. CuctSCenaBOS : https://www.youtube.com/watch?v=H5WXMUL4OaY
 5. Symulacja rozbitej ściany https://www.youtube.com/watch?v=WXLmdQ7vrAs
